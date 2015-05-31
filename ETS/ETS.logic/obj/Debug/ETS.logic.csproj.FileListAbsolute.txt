@@ -1,0 +1,21 @@
+c:\users\kilst\desktop\C# Project\ETS\ETS.logic\bin\Debug\ETS.logic.dll
+c:\users\kilst\desktop\C# Project\ETS\ETS.logic\bin\Debug\ETS.logic.pdb
+c:\users\kilst\desktop\C# Project\ETS\ETS.logic\obj\Debug\ETS.logic.dll
+c:\users\kilst\desktop\C# Project\ETS\ETS.logic\obj\Debug\ETS.logic.pdb
+c:\users\kilst\desktop\C# Project\ETS\ETS.logic\obj\Debug\ETS.logic.csprojResolveAssemblyReference.cache
+c:\users\kilst\desktop\C# Project\ETS\ETS.logic\bin\Debug\ETS.data.dll
+c:\users\kilst\desktop\C# Project\ETS\ETS.logic\bin\Debug\ETS.data.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.logic\bin\Debug\ETS.logic.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.logic\bin\Debug\ETS.logic.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.csprojResolveAssemblyReference.cache
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.logic\bin\Debug\ETS.logic.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.logic\bin\Debug\ETS.logic.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.logic\bin\Debug\ETS.logic.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.logic\bin\Debug\ETS.logic.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.csprojResolveAssemblyReference.cache
+J:\C# Assignment\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.logic\obj\Debug\ETS.logic.pdb

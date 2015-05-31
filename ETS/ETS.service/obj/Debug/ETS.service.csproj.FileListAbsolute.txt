@@ -1,0 +1,27 @@
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.csprojResolveAssemblyReference.cache
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.service.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.service.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.data.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.logic.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.data.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.logic.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.csprojResolveAssemblyReference.cache
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.service.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.service.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.data.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.logic.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.data.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.logic.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.service.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.service.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.data.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.logic.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.data.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\bin\Debug\ETS.logic.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.csprojResolveAssemblyReference.cache
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.service\obj\Debug\ETS.service.pdb

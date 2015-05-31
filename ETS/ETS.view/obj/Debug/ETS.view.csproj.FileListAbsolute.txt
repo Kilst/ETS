@@ -1,0 +1,58 @@
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\bin\Debug\ETS.view.exe.config
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\bin\Debug\ETS.view.exe
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\bin\Debug\ETS.view.pdb
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\bin\Debug\ETS.data.dll
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\bin\Debug\ETS.data.pdb
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\obj\Debug\ETS.view.csprojResolveAssemblyReference.cache
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\obj\Debug\ETS.view.MainForm.resources
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\obj\Debug\ETS.view.Properties.Resources.resources
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\obj\Debug\ETS.view.csproj.GenerateResource.Cache
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\obj\Debug\ETS.view.exe
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\obj\Debug\ETS.view.pdb
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\bin\Debug\ETS.logic.dll
+c:\users\kilst\desktop\C# Project\ETS\ETS.view\bin\Debug\ETS.logic.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.exe.config
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.exe
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.exe
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.data.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.logic.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.data.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.logic.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.csprojResolveAssemblyReference.cache
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.MainForm.resources
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.Properties.Resources.resources
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.csproj.GenerateResource.Cache
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.service.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.service.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.exe.config
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.exe
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.exe
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.logic.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.service.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.data.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.logic.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.service.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.data.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.csprojResolveAssemblyReference.cache
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.MainForm.resources
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.Properties.Resources.resources
+E:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.csproj.GenerateResource.Cache
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.exe.config
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.exe
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.exe
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.view.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.logic.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.service.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.data.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.logic.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.service.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\bin\Debug\ETS.data.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.csprojResolveAssemblyReference.cache
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.MainForm.resources
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.Properties.Resources.resources
+J:\C# Assignment\C# Project - Copy\ETS\ETS.view\obj\Debug\ETS.view.csproj.GenerateResource.Cache

@@ -1,0 +1,26 @@
+c:\users\kilst\desktop\C# Project\ETS\ETS.data\bin\Debug\ETS.data.dll
+c:\users\kilst\desktop\C# Project\ETS\ETS.data\bin\Debug\ETS.data.pdb
+c:\users\kilst\desktop\C# Project\ETS\ETS.data\obj\Debug\ETS.data.csprojResolveAssemblyReference.cache
+c:\users\kilst\desktop\C# Project\ETS\ETS.data\obj\Debug\ETS.data.dll
+c:\users\kilst\desktop\C# Project\ETS\ETS.data\obj\Debug\ETS.data.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.data.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.data.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.csprojResolveAssemblyReference.cache
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.pdb
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.logic.dll
+C:\Users\Kilst\Desktop\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.logic.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.data.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.data.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.logic.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.logic.pdb
+E:\C# Assignment\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.csprojResolveAssemblyReference.cache
+E:\C# Assignment\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.dll
+E:\C# Assignment\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.data.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.data.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.logic.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.data\bin\Debug\ETS.logic.pdb
+J:\C# Assignment\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.csprojResolveAssemblyReference.cache
+J:\C# Assignment\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.dll
+J:\C# Assignment\C# Project - Copy\ETS\ETS.data\obj\Debug\ETS.data.pdb
